@@ -8,7 +8,7 @@ A full-stack web application that processes node relationships, builds hierarchi
 
 -  Frontend: https://ganeshposa.netlify.app  
 -  Backend API: https://bfhl-project-t458.onrender.com  
--  GitHub Repository: https://github.com/yourusername/bfhl-project  
+-  GitHub Repository: https://github.com/ganeshposa/bfhl-project.git  
 
 ---
 
